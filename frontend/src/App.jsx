@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
 import Home from './Home.jsx'
-import Cocinas from './pages/cocinas.jsx'
-import Anafes from './pages/anafes.jsx'
+import Cocinas from './pages/Cocinas.jsx'
+import Anafes from './pages/Anafes.jsx'
 import Hornos from './pages/Hornos.jsx'
 
 function App() {
