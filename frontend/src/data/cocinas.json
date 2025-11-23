@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cocina Multiple de 4 hornallas",
+    "descripcion": "Cocina Multiple de 4 hornallas con plancha y pinza tostadora",
+    "precio": " consultar precio",
+    "imagen": [
+  "../../public/images/cocina-negra-transparente.webp",
+  "../../public/images/cocina-negra-frente-transparente.png",
+  "../../public/images/cocina-roja-transparente.png",
+  "../../public/images/cocina-rosa-transparente.png",
+  "../../public/images/cocina-acero-transparente.png"
+],
+
+    "categoria": "Cocinas",
+    "stock": "consultar",
+    "big-description": "Cocina Múltiple de 4 Hornallas con plancha,  pinza tostadora y freidora de 10 litros. Rejas y hornallas de fundición de aluminio. Robinetes y válvulas multi gas. Reloj pirómetro en puerta. exterior disponible en Negro, Rojo, Rosa, Acero inoxidable. Medidas: 120 x 60 x 85 expresado en centimetros."
+  },
+  {
+    "id": 2,
+    "nombre": "Cocina Múltiple de 4 Hornallas con plancha y pinza tostadora",
+    "descripcion": "Cocina pesada con extructura de angulo.",
+    "precio": " consultar precio",
+    "imagen": [
+  "../../public/images/2-cocina-negra-transparente.png",
+  "../../public/images/2-cocina-negra-abierta-transparente.png",
+  "../../public/images/2-cocina-acero-transparente.png",
+  "../../public/images/2-cocina-roja-transparente.png",
+  "../../public/images/2-cocina-azul-transparente.png"
+],
+    "categoria": "Cocinas",
+    "stock": "consultar",
+    "big-description": "Cocina Múltiple de 4 Hornallas con plancha y pinza tostadora. Robinetes y válvulas multi gas. Rejas y hornallas de fundición de aluminio. Reloj pirómetro en puerta. exterior disponible en Negro, Rojo, Azul, Acero inoxidable. Medidas: 90 x 60 x 85 expresado en centimetros."
+
+  },
+  {
+    "id": 3,
+    "nombre": "Cocina NO-NAMMED",
+    "descripcion": "description.",
+    "precio": " consultar precio",
+    "imagen": [
+  "../../public/images/3-cocina.png",
+  "../../public/images/3-cocina-frente.png"
+],
+    "categoria": "Cocinas",
+    "stock": "consultar"
+  },
+  {
+    "id": 4,
+    "nombre": "Cocina NO-NAMMED",
+    "descripcion": "description.",
+    "precio": " consultar precio",
+    "imagen": [
+  "../../public/images/4-cocina.png"
+],
+    "categoria": "Cocinas",
+    "stock": "consultar"
+  },
+  {
+    "id": 5,
+    "nombre": "Cocina NO-NAMMED",
+    "descripcion": "description.",
+    "precio": " consultar precio",
+    "imagen": [
+  "../../public/images/5-cocina.png",
+  "../../public/images/5-cocina-abierta.png"
+],
+    "categoria": "Cocinas",
+    "stock": "consultar"
+  }
+]

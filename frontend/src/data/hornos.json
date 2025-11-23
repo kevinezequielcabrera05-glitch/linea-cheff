@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "nombre": "horno",
+    "descripcion": "horno",
+    "precio": " consultar precio",
+    "imagen": [
+        "../../public/images/horno.png",
+        "../../public/images/horno-frente.png",
+        "../../public/images/horno-abierto.png"
+    ],
+    "categoria": "Hornos",
+    "stock": "consultar",
+    "big-description": "horno"
+  },
+  {
+    "id": 2,
+    "nombre": "horno",
+    "descripcion": "horno",
+    "precio": " consultar precio",
+    "imagen": [
+        "../../public/images/2-horno.png",
+        "../../public/images/2-horno-frente.png"
+    ],
+    "categoria": "Hornos",
+    "stock": "consultar",
+    "big-description": "horno"
+  },
+  {
+    "id": 3,
+    "nombre": "horno",
+    "descripcion": "horno",
+    "precio": " consultar precio",
+    "imagen": [
+        "../../public/images/3-horno.png"
+    ],
+    "categoria": "Hornos",
+    "stock": "consultar",
+    "big-description": "horno"
+  },
+  {
+    "id": 4,
+    "nombre": "horno",
+    "descripcion": "horno",
+    "precio": " consultar precio",
+    "imagen": [
+        "../../public/images/4-horno.png"
+    ],
+    "categoria": "Hornos",
+    "stock": "consultar",
+    "big-description": "horno"
+  }
+]
