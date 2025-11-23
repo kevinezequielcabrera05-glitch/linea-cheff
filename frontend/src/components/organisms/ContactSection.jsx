@@ -73,7 +73,7 @@ const ContactSection = () => {
 
   return (
     <section
-      id="contacto"
+      id="contact"
       className="w-full flex flex-col lg:flex-row justify-between items-start px-6 lg:px-32 py-16"
     >
       <div className="w-full lg:w-1/2 mb-12 lg:mb-0">

@@ -1,11 +1,21 @@
+import Header from "../components/organisms/Header.jsx";
+import CatalogNavigator from "../components/molecules/CatalogNavigator.jsx";
+import CooktopCatalog from "../components/organisms/CooktopCatalog.jsx"
+
+
+
 function Anafes() {
   return (
-    <main className="p-10">
-      <h1 className="text-3xl font-bold mb-6">Anafes</h1>
-      {/* Acá irá tu catálogo de cocinas */}
-      <p>Catálogo de Anafes...</p>
-    </main>
-  )
+    <>
+      <Header />
+
+      <main className="px-6 md:px-16 lg:px-32 py-8">
+        
+        <CatalogNavigator />
+        <CooktopCatalog />
+      </main>
+    </>
+  );
 }
 
-export default Anafes
+export default Anafes;

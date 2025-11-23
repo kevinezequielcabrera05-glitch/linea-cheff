@@ -8,7 +8,7 @@ import ContactSection from './components/organisms/ContactSection.jsx'
 
 function Home(){
     return (
-        <main className='snap-y snap-proximity h-screen overflow-y-scroll scroll-smooth'>
+        <main className='snap-y snap-proximity h-screen overflow-y-scroll overflow-x-hidden scroll-smooth'>
             <Header />
             <HeroSection />
             <ProductsSection />

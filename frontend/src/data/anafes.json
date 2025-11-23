@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "nombre": "anafe prueba",
+    "descripcion": "anafe",
+    "precio": " consultar precio",
+    "imagen": [
+      "../../public/images/cocina-negra-transparente.webp"
+    ],
+
+    "categoria": "Anafes",
+    "stock": "consultar",
+    "big-description": "Cocina Múltiple de 4 Hornallas con plancha,  pinza tostadora y freidora de 10 litros. Rejas y hornallas de fundición de aluminio. Robinetes y válvulas multi gas. Reloj pirómetro en puerta. exterior disponible en Negro, Rojo, Rosa, Acero inoxidable. Medidas: 120 x 60 x 85 expresado en centimetros."
+  }
+]
