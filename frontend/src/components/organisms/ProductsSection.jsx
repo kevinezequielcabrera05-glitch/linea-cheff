@@ -7,7 +7,7 @@ function ProductsSection() {
       className="w-full h-auto snap-start grid grid-cols-1 lg:grid-cols-3"
     >
       <ProductCard
-        image="../../../public/images/catalog-anafes.jpg"
+        image="/images/catalog-anafes.jpg"
         title="Anafes"
         subtitle="premium"
         buttonText="Ver más"
@@ -15,7 +15,7 @@ function ProductsSection() {
       />
 
       <ProductCard
-        image="../../../public/images/horno-foto-ia.webp"
+        image="/images/horno-foto-ia.webp"
         title="Hornos"
         subtitle="eléctricos"
         buttonText="Ver más"
@@ -23,7 +23,7 @@ function ProductsSection() {
       />
 
       <ProductCard
-        image="../../../public/images/cocina-negra-frente.webp"
+        image="/images/cocina-negra-frente.webp"
         title="Cocinas"
         subtitle="industriales"
         buttonText="Ver más"

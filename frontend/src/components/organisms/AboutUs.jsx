@@ -6,8 +6,8 @@ function AboutUs() {
     >
       <div className="w-full lg:w-1/2 rounded-3xl overflow-hidden">
         <img
-          src="../../../public/images/aboutus.jpeg"
-          alt="Fabricación de cocinas"
+          src="/images/aboutus.jpeg"
+          alt="cocinas en uso"
           className="w-full h-full object-cover rounded-3xl"
         />
       </div>

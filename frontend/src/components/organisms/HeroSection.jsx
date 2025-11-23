@@ -5,7 +5,7 @@ function HeroSection() {
     <section
       id="hero"
       style={{
-         backgroundImage: `url("../../../public/images/bg-hero.jpg")`
+         backgroundImage: 'url("/images/bg-hero.jpg")'
        }}
       className={`relative w-full h-dvh bg-cover bg-center min-h-screen bg-no-repeat flex justify-center items-center snap-start`}
     >
